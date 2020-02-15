@@ -14,7 +14,7 @@
     "graphql-yoga": "^1.18.3",
     "merge-graphql-schemas": "^1.7.6",
     "morgan": "^1.9.1",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
